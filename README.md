@@ -1,58 +1,21 @@
-<div align="center">
-    <img src="https://github.com/your-username/your-repo/raw/main/filename.gif" alt="Coding in the Dark" width="600">
-    <h1>Welcome to My GitHub Profile</h1>
-    <p>👨‍💻 DevOps & MLOps Enthusiast | Continuous Learner | Problem Solver 👨‍💻</p>
-</div>
+<h1 align="center">Hi 👋, I'm kalandar</h1>
+- 🔭 I’m currently working on [MLOPS](https://github.com/kala-techies/MLOPS)
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/kala-techies](https://github.com/kala-techies)
 
-## 🔹 About Me
-Welcome! I’m a **Tech Enthusiast** who enjoys exploring the depths of *DevOps, MLOps, and Cloud Infrastructure*. With hands-on experience and a love for solving complex problems, I bring a wealth of knowledge to my projects, focused on:
+- 💬 Ask me about **Azure, Azure DevOps, AWS, Terraform, Docker, Kubernetes, Python etc..**
 
-- 💻 **Cloud Platforms**: Azure, AWS, Azure Networking
-- ⚙️ **DevOps Tools**: Azure DevOps, GitHub Actions, Terraform, Docker, Kubernetes, AKS
-- 📝 **Scripting & Automation**: Python, Bash scripting, CLI automation
-- 📈 **Application Development**: Maven, Flask, Tomcat, SQL Server
-- 🔐 **Security & Code Quality**: SonarQube, Trivy
+- 📫 How to reach me **connectwithkala18@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🔹 My Projects & Resources
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 🌱 For Beginners
-Get started with foundational concepts and practical tools:
-- [**SDLC Fundamentals**](https://github.com/kala-techies/sdlc-fundamentals.git) - Basics of the Software Development Life Cycle
-- [**Git for DevOps**](https://github.com/kala-techies/GitForDevOps.git) - Essential Git commands for DevOps workflows
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kala-techies&show_icons=true&locale=en&layout=compact" alt="kala-techies" /></p>
 
-### ☁️ Cloud & Infrastructure Automation
-Explore tools and practices for automating cloud infrastructure:
-- [**Terraform with Azure**](https://github.com/kala-techies/TerraformWithAzure.git) - Automate cloud infrastructure with Terraform
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&locale=en" alt="kala-techies" /></p>
 
-### 🤖 Machine Learning Operations (MLOps)
-Bridge the gap between Machine Learning and DevOps with these projects:
-- [**MLOps Project**](https://github.com/kala-techies/MLOPS.git) - Learn MLOps basics and deploy ML models in production
-
-### 🐍 Python Essentials
-Hands-on resources for learning Python programming fundamentals:
-- [**Python Essentials**](https://github.com/kala-techies/MLOPS/tree/main/Section03PythonEssentials) - Beginner-friendly Python resources
-
-### 🛠️ CI/CD & Deployment
-Build, test, and deploy applications using CI/CD pipelines:
-- [**CI/CD with Docker & GitHub Actions**](https://github.com/kala-techies/DockerGithubActionsDeployment.git) - Automate deployments with GitHub Actions and Docker
-
-### 🌐 Web Development & Docker
-Discover web development with HTML, CSS, JavaScript, and React, packaged in Docker:
-- [**Kalandar Blog Project**](https://github.com/kala-techies/kalandar-blog.git) - Web development project with Docker deployment
-
-### ⚾ Python & Docker Integration
-Explore Python applications and Docker containerization:
-- [**Cricbuzz Clone**](https://github.com/kala-techies/cricbuzz_clone.git) - Python app with Docker setup
-
----
-
-## 🔹 Connect with Me
-Have questions or want to collaborate? Reach out via email at [connectwithkala18@gmail.com](mailto:connectwithkala18@gmail.com).
-
-<div align="center">
-    🌟 Follow my GitHub to stay updated on the latest projects and resources! 🌟
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kala-techies&" alt="kala-techies" /></p>
