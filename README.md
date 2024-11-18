@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalandar</h1>
+
 <div align="center">
     <img src="https://github.com/your-username/your-repo/raw/main/filename.gif" alt="Coding in the Dark" width="600">
 </div>
@@ -12,6 +13,9 @@ I’m a **Tech Enthusiast** with expertise in DevOps, MLOps, and Cloud Infrastru
 - 🔭 **Currently Working On**: [MLOPS](https://github.com/kala-techies/MLOPS)
 - 👨‍💻 **All Projects Available** at [GitHub Profile](https://github.com/kala-techies)
 - 💬 **Ask Me About**: Azure, Azure DevOps, AWS, Terraform, Docker, Kubernetes, Python, and more!
+- 🌐 **Portfolio**: [kala-techies.my.canva.site](https://kala-techies.my.canva.site/)
+- 🔗 **LinkedIn**: [Shaik Kalandar](https://www.linkedin.com/in/shaik-kalandar-b86208322)
+- 🤝 **Topmate Profile**: [Connect with me](https://staging2.topmate.io/kala/)
 - 📫 **Contact Me**: [connectwithkala18@gmail.com](mailto:connectwithkala18@gmail.com)
 
 ---
@@ -22,13 +26,11 @@ I’m a **Tech Enthusiast** with expertise in DevOps, MLOps, and Cloud Infrastru
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -75,6 +77,22 @@ Explore web development and Docker packaging:
 ### ⚾ Python & Docker Integration
 Containerize Python apps for easy deployment:
 - **[Cricbuzz Clone](https://github.com/kala-techies/cricbuzz_clone.git)** - Python app with Docker setup
+
+---
+
+## 🔹 Mentoring & Free Student Resources
+
+I'm passionate about helping students kickstart their journey in tech. Here are some of the students I've mentored:
+
+| Student Name | GitHub Profile |
+|--------------|----------------|
+| Abdul | [Abdul's GitHub](https://github.com/Abdul9010150809) |
+| Sameer | [Sameer's GitHub](https://github.com/sameer-shaik7) |
+| Ashrafuddin | [Ashrafuddin's GitHub](https://github.com/Ashrafuddinsha) |
+| Nagabasha | [Nagabasha's GitHub](https://github.com/Nagabashashaik) |
+| Syed Khasim | [Syed's GitHub](https://github.com/SyedKhasimshahid) |
+
+> 🌟 If you're a student looking for guidance in DevOps, MLOps, or cloud technologies, feel free to [reach out](mailto:connectwithkala18@gmail.com) — I'm offering free support to help you succeed!
 
 ---
 
