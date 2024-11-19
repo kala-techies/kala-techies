@@ -10,28 +10,67 @@
 
 I’m a **Tech Enthusiast** with expertise in DevOps, MLOps, and Cloud Infrastructure, dedicated to solving complex problems through automation and best practices. You can find all my projects and contributions here on my GitHub profile, where I strive to create resources that empower developers and learners alike.
 
-- 🔭 **Currently Working On**: [MLOPS](https://github.com/kala-techies/MLOPS)
-- 👨‍💻 **All Projects Available** at [GitHub Profile](https://github.com/kala-techies)
-- 💬 **Ask Me About**: Azure, Azure DevOps, AWS, Terraform, Docker, Kubernetes, Python, and more!
-- 🌐 **Portfolio**: [kala-techies.my.canva.site](https://kala-techies.my.canva.site/)
-- 🔗 **LinkedIn**: [Shaik Kalandar](https://www.linkedin.com/in/shaik-kalandar-b86208322)
-- 🤝 **Topmate Profile**: [Connect with me](https://staging2.topmate.io/kala/)
-- 📫 **Contact Me**: [connectwithkala18@gmail.com](mailto:connectwithkala18@gmail.com)
+### 🎓 Certifications:
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
+- [HashiCorp Certified: Terraform Associate](https://developer.hashicorp.com/terraform/associate)
 
 ---
 
-## 🔹 Languages and Tools
+## 🔹 Languages
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-</p>
+- [Python](https://www.python.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [XML](https://developer.mozilla.org/en-US/docs/XML)
+
+---
+
+## 🔹 Version Control
+
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [Azure Repos](https://azure.microsoft.com/en-in/services/devops/repos/)
+- [GitLab](https://about.gitlab.com/)
+
+---
+
+## 🔹 Build Tools/Frameworks
+
+- [Maven](https://maven.apache.org/)
+- [Flask](https://flask.palletsprojects.com/)
+- [MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022)
+
+---
+
+## 🔹 CI/CD Orchestrators
+
+- [Jenkins](https://www.jenkins.io/)
+- [GitHub Actions](https://github.com/features/actions)
+- [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/)
+- [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+
+---
+
+## 🔹 Tools
+
+- [Docker](https://www.docker.com/)
+- [Docker Swarm](https://docs.docker.com/engine/swarm/)
+- [Kubernetes](https://kubernetes.io/)
+- [Terraform](https://www.terraform.io/)
+- [Tomcat](https://tomcat.apache.org/)
+- [Windows](https://www.microsoft.com/en-in/windows/)
+- [Linux](https://www.linux.org/)
+- [SonarQube](https://www.sonarqube.org/)
+- [Trivy](https://aquasecurity.github.io/trivy/)
+- Command Line Interface (CLI)
+
+---
+
+## 🔹 IDEs
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Google Colab](https://colab.research.google.com/)
+- [GitHub Codespaces](https://github.com/features/codespaces)
 
 ---
 
