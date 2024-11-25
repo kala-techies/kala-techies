@@ -13,6 +13,7 @@ I’m a **Tech Enthusiast** with expertise in DevOps, MLOps, and Cloud Infrastru
 - 🏅 **Certifications**:
   - Microsoft Azure Fundamentals **(AZ-900)**
   - Microsoft Azure AI Fundamentals **(AI-900)**
+  - Microsoft Azure Network Engineer Associate **(AZ-700)**
   - HashiCorp Certified: Terraform Associate
 - 🔭 **Currently Working On**: [MLOps](https://github.com/kala-techies/MLOPS)
 - 👨‍💻 **All Projects Available** at [GitHub Profile](https://github.com/kala-techies)
@@ -83,7 +84,7 @@ I’m a **Tech Enthusiast** with expertise in DevOps, MLOps, and Cloud Infrastru
 
 ### 🌱 Beginner Resources
 - **[SDLC Fundamentals](https://github.com/kala-techies/sdlc-fundamentals.git)** - Basics of the Software Development Life Cycle
-- **[Git for DevOps](https://github.com/kala-techies/GitForDevOps.git)** - Essential Git commands for DevOps
+- **[Git for Ops](https://github.com/kala-techies/GitForOps)** - Essential Git commands for DevOps
 
 ### ☁️ Cloud & Infrastructure Automation
 - **[Terraform with Azure](https://github.com/kala-techies/TerraformWithAzure.git)** - Cloud infrastructure automation
