@@ -105,13 +105,3 @@ Apart from these students, I am mentoring many others. Due to security reasons, 
     🌟 Follow my GitHub for more DevOps, MLOps, and automation resources! 🌟
 </div>
 ```
-
----
-
-### Key Changes:
-1. Added **Azure**, **AWS**, and **GCP** to relevant sections.
-2. Updated top skills with unique colors for categorization.
-3. Added a note in the **Mentoring** section about other mentees.
-4. Ensured the layout remains clean and consistent with your original format.
-
-Let me know if you need any further adjustments!
