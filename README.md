@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Kalandar</h1>
 
 <div align="center">
@@ -77,6 +78,9 @@ I’m a **Tech Enthusiast** with expertise in DevOps, MLOps, and Cloud Infrastru
 ### 🤖 Machine Learning Operations (MLOps)
 - **[MLOps Project](https://github.com/kala-techies/MLOPS.git)** - Learn to deploy ML models in production
 
+### 🐧 Linux Skills for Beginners
+- **[Linux Starter](https://github.com/kala-techies/linuxStarter)** - A 7-day guide for Linux beginners focusing on foundational commands and concepts.
+
 ### 🐍 Python Essentials
 - **[Python Essentials](https://github.com/kala-techies/MLOPS/tree/main/Section03PythonEssentials)** - Beginner-friendly Python resources
 
@@ -98,8 +102,6 @@ I'm passionate about helping students kickstart their journey in tech. Here are 
 | Syed Khasim  | [Syed's GitHub](https://github.com/SyedKhasimshahid) |
 
 Apart from these students, I am mentoring many others. Due to security reasons, I am not mentioning their names.
-
----
 
 <div align="center">
     🌟 Follow my GitHub for more DevOps, MLOps, and automation resources! 🌟
