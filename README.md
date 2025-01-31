@@ -1,67 +1,67 @@
-
 <h1 align="center">Hi 👋, I'm Kalandar</h1>
-<h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 <div align="center">
-    <img src="https://github.com/kala-techies/kala-techies/raw/main/assets/coding.gif" alt="Coding in the Dark" width="600">
+    <img src="https://github.com/your-username/your-repo/raw/main/filename.gif" alt="Coding in the Dark" width="600">
 </div>
 
 ---
 
-## 🚀 About Me
+## 🔹 About Me
 
-I’m a **DevOps Engineer** passionate about automating infrastructure, optimizing CI/CD pipelines, and bridging the gap between development and operations. I thrive on solving complex problems with cloud-native solutions and open-source tools. 
+I’m a **Tech Enthusiast** with expertise in DevOps, MLOps, and Cloud Infrastructure, dedicated to solving complex problems through automation and best practices. You can find all my projects and contributions here on my GitHub profile, where I strive to create resources that empower developers and learners alike.
 
-- 🏅 **Certifications**:  
-  ![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
-  ![AI-900](https://img.shields.io/badge/Microsoft_AI_Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
-  ![AZ-700](https://img.shields.io/badge/Azure_Network_Engineer-0078D4?logo=microsoftazure&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/HashiCorp_Terraform-7B42BC?logo=terraform&logoColor=white)
-
-- 🔭 **Currently Building**: [MLOps Pipeline for Computer Vision](https://github.com/kala-techies/MLOPS)
-- 🌱 **Learning**: Advanced Kubernetes Patterns | GCP Architectures
-- 📝 **Blog**: [Read my latest posts](https://medium.com/@kala-techies) (coming soon!)
-- 💬 **Ask me about**: Cloud cost optimization, CI/CD best practices, or career advice!
-- 📫 **Reach me**: [Email](mailto:connectwithkala18@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaik-kalandar-b86208322) | [Topmate](https://staging2.topmate.io/kala/)
-- ⚡ **Fun fact**: I automate my coffee brewing process using Python + IoT sensors ☕
-
----
-
-## 🛠️ Tech Stack
-
-### **Cloud & Infrastructure**
-![Azure](https://img.shields.io/badge/Azure-0078D7?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-### **CI/CD & Automation**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
-
-### **Monitoring & Observability**
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?logo=elasticstack&logoColor=white)
-
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+- 🏅 **Certifications**:
+  - Microsoft Azure Fundamentals **(AZ-900)**
+  - Microsoft Azure AI Fundamentals **(AI-900)**
+  - Microsoft Azure Network Engineer Associate **(AZ-700)**
+  - HashiCorp Certified: Terraform Associate
+- 🔭 **Currently Working On**: [MLOps](https://github.com/kala-techies/MLOPS)
+- 👨‍💻 **All Projects Available** at [GitHub Profile](https://github.com/kala-techies)
+- 💬 **Ask Me About**: Azure, Azure DevOps, AWS, GCP, Terraform, Docker, Kubernetes, Python, and more!
+- 🌐 **Portfolio**: [kala-techies.my.canva.site](https://kala-techies.my.canva.site/)
+- 🔗 **LinkedIn**: [Shaik Kalandar](https://www.linkedin.com/in/shaik-kalandar-b86208332)
+- 🤝 **Topmate Profile**: [Connect with me](https://staging2.topmate.io/kala/)
+- 📫 **Contact Me**: [connectwithkala18@gmail.com](mailto:connectwithkala18@gmail.com)
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Tech Stack
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kala-techies&layout=compact&theme=dark&langs_count=8"/>
-</div>
+### 🥇 Top Skills
+![Azure](https://img.shields.io/badge/-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AKS](https://img.shields.io/badge/-AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kala-techies&theme=dark" alt="GitHub Streak"/>
-</div>
+### 🥈 Second Top Skills
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Other Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+---
+
+## 🔹 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kala-techies&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kala-techies&" alt="GitHub Streak" /></p>
 
 ---
 
@@ -90,24 +90,13 @@ I’m a **DevOps Engineer** passionate about automating infrastructure, optimizi
 
 ## 🔹 Mentoring & Free Student Resources
 
-I'm passionate about helping students kickstart their journey in tech. Here are some of the students I've mentored:
+I'm passionate about helping students kickstart their journey in tech. I currently mentor multiple aspiring developers and DevOps engineers, focusing on:
 
-| Student Name | GitHub Profile |
-|--------------|----------------|
-| Abdul        | [Abdul's GitHub](https://github.com/Abdul9010150809) |
-| Sameer       | [Sameer's GitHub](https://github.com/sameer-shaik7) |
-| Ashrafuddin  | [Ashrafuddin's GitHub](https://github.com/Ashrafuddinsha) |
-| Nagabasha    | [Nagabasha's GitHub](https://github.com/Nagabashashaik) |
-| Syed Khasim  | [Syed's GitHub](https://github.com/SyedKhasimshahid) |
-
-Apart from these students, I am mentoring many others. Due to security reasons, I am not mentioning their names.
+- Cloud infrastructure fundamentals
+- CI/CD pipeline implementation
+- Infrastructure as Code (IaC) best practices
+- Career guidance in DevOps and cloud engineering
 
 <div align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=kala-techies.kala-techies">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kala-techies.kala-techies" alt="Visitors"/>
-  </a>
-  <a href="https://github.com/kala-techies?tab=followers">
-    <img src="https://img.shields.io/github/followers/kala-techies?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
+    🌟 Follow my GitHub for more DevOps, MLOps, and automation resources! 🌟
 </div>
-```
