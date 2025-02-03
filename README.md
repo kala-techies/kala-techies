@@ -1,106 +1,109 @@
 
 <h1 align="center">👋 Hi, I'm Shaik Kalandar</h1>
-<h3 align="center">Cloud Automation Specialist | DevOps Mentor</h3>
+<h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation Expert</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Empowering+developers+through+automation;200%2B+hours+of+DevOps+mentoring;Azure%2FAWS+Certified+Professional" alt="Header Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Azure%2FAWS+Architect;DevOps+Mentor;Infrastructure+as+Code+Specialist" alt="Header Animation">
 </div>
 
 ---
 
-## 📌 About Me
+## 🛠️ Technical Arsenal
 
-I'm a cloud infrastructure specialist passionate about creating automation solutions and mentoring aspiring DevOps engineers. With **200+ hours of 1:1 mentorship experience**, I've helped 50+ students transition into cloud engineering roles through practical, hands-on training.
+### ☁️ Cloud Platforms
+![Azure](https://img.shields.io/badge/Azure-Expert-0078D4?logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-Pro-232F3E?logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-Intermediate-4285F4?logo=googlecloud)
 
-**Core Expertise:**  
-`Infrastructure as Code` • `CI/CD Pipelines` • `Cloud Security` • `Container Orchestration`
+### 🔧 DevOps Toolkit
+![Terraform](https://img.shields.io/badge/Terraform-Certified-7B42BC?logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/AKS/GKE-326CE5?logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
+
+### 🛡️ Security & QA
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aqua-security)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube)
+
+### ⚡ Core Skills
+![Python](https://img.shields.io/badge/Python_Scripting-3776AB?logo=python)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver)
+![Networking](https://img.shields.io/badge/Networking-Expert-0096D6)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700)
 
 ---
 
 ## 🏆 Certifications
-
-[![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0078D7?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/ShaikKalandar-4032/CF5B4B9D6E4A3D84?sharingId=9D5D3A3289D8D5A4)
-[![AI-900](https://img.shields.io/badge/Azure_AI_Fundamentals-0078D7?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/ShaikKalandar-4032/CF5B4B9D6E4A3D84?sharingId=9D5D3A3289D8D5A4)
-[![AZ-700](https://img.shields.io/badge/Azure_Network_Engineer-0078D7?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/ShaikKalandar-4032/CF5B4B9D6E4A3D84?sharingId=9D5D3A3289D8D5A4)
-[![Terraform](https://img.shields.io/badge/HashiCorp_Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.credly.com/badges/1e3a3b9a-5b3a-4b3a-9b3a-5b3a4b3a9b3a)
+[![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-0078D4?logo=microsoftazure)](https://learn.microsoft.com/en-us/users/shaikkalandar-4032/)
+[![AI-900](https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?logo=microsoftazure)](https://learn.microsoft.com/en-us/users/shaikkalandar-4032/)
+[![AZ-700](https://img.shields.io/badge/Azure_Network_Engineer-0078D4?logo=microsoftazure)](https://learn.microsoft.com/en-us/users/shaikkalandar-4032/)
+[![Terraform](https://img.shields.io/badge/HashiCorp_Certified-7B42BC?logo=terraform)](https://www.credly.com/badges/1e3a3b9a-5b3a-4b3a-9b3a-5b3a4b3a9b3a)
 
 ---
 
-## 📊 Activity Metrics
+## 📊 Development Pulse
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kala-techies&theme=dark&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img src="https://streak-stats.demolab.com?user=kala-techies&theme=dark&border_radius=4.6" width="49%"/>
   </a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kala-techies&layout=compact&theme=dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&theme=radical" width="49%">
 </div>
 
 ---
 
-## 🧭 Learning Pathways
+## 🧠 Knowledge Repository
 
-### 🚀 Beginner's Journey
-```mermaid
-graph TD
-    A[SDLC Fundamentals] --> B[Linux Essentials]
-    B --> C[Python Basics]
-    C --> D[Git & GitHub]
-    D --> E[CI/CD Concepts]
-```
+### 🎓 Foundational Resources
+| Project | Tech Stack | Learning Outcome |
+|---------|------------|------------------|
+| [SDLC Fundamentals](https://github.com/kala-techies/sdlc-fundamentals) | Git, Markdown | Software lifecycle mastery |
+| [Linux Starter](https://github.com/kala-techies/linuxStarter) | Bash, SSH | Linux administration basics |
+| [Python Essentials](https://github.com/kala-techies/MLOPS/tree/main/Section03PythonEssentials) | Python 3.x | Automation scripting foundation |
 
-| Resource | Description | Time Investment |
-|----------|-------------|-----------------|
-| [SDLC Guide](https://github.com/kala-techies/sdlc-fundamentals) | Software development lifecycle fundamentals | 10 hours |
-| [Linux Starter](https://github.com/kala-techies/linuxStarter) | Practical Linux administration course | 15 hours |
-| [Python Primer](https://github.com/kala-techies/MLOPS/tree/main/Section03PythonEssentials) | Core programming concepts & automation | 20 hours |
-
----
-
-## 🏗️ Professional Projects
-
-| Project | Tech Stack | Key Feature |
-|---------|------------|-------------|
-| [Blog Deployment](https://github.com/kala-techies/kalandar-blog) | React + Docker | Production-grade containerization |
-| [Cricket API Clone](https://github.com/kala-techies/cricbuzz_clone) | Flask + Docker | Real-time data pipelines |
-| [Azure Automation](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform + GitHub Actions | Enterprise IaC templates |
-| [PowerShell Toolkit](https://github.com/kala-techies/PowershellBy_Kala) | PowerShell + Azure | Operational automation scripts |
+### 🚀 Production-Grade Projects
+| Project | Key Technologies | Professional Use Case |
+|---------|------------------|-----------------------|
+| [Blog Deployment](https://github.com/kala-techies/kalandar-blog) | React, Docker | Containerized web apps |
+| [Cricbuzz Clone](https://github.com/kala-techies/cricbuzz_clone) | Flask, Docker | Python microservices |
+| [Azure Terraform](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, GitHub Actions | Cloud infrastructure automation |
+| [MLOps Pipeline](https://github.com/kala-techies/MLOPS) | MLflow, Prometheus | Machine learning lifecycle management |
 
 ---
 
-## 🌐 Connect With Me
+## 🧑🏫 Mentorship Impact
+**200+ Hours of DevOps Training**  
+✅ Hands-on labs with real infrastructure  
+✅ CI/CD pipeline implementation workshops  
+✅ Career transition guidance  
+✅ Technical interview preparation
+
+**Student Success Story**  
+> "Kalandar's Terraform deep-dive helped me automate infrastructure deployment in my first cloud role!"  
+> - Cloud Engineer @TechStartup
+
+---
+
+## 🌐 Connect & Collaborate
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shaik-kalandar-b86208332">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?logo=linkedin" height="30">
   </a>
   <a href="https://kala-techies.my.canva.site/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=canva" height="30">
   </a>
   <a href="mailto:connectwithkala18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail" height="30">
   </a>
   <a href="https://staging2.topmate.io/kala/">
-    <img src="https://img.shields.io/badge/Book_Session-FF6B6B?style=for-the-badge&logo=google-meet&logoColor=white" alt="Mentorship">
+    <img src="https://img.shields.io/badge/Book_Session-Expert_Guidance-FF6B6B?logo=googlemeet" height="30">
   </a>
 </div>
-
----
-
-## 🛣️ Roadmap Ahead
-
-**Q4 2024**  
-🔹 Azure Networking Deep Dive  
-🔹 Advanced Security Groups Configuration  
-
-**2025**  
-🔸 AWS Security Architecture  
-🔸 AI-Driven Infrastructure Optimization  
 
 ---
 
 <p align="center">
-  <em>"Automation is the bridge between ideas and execution - let's build remarkable solutions!"</em> 🚀
+  <em>"Automation is not replacement - it's human potential amplified through technology"</em> ⚡
 </p>
 ```
