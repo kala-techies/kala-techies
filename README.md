@@ -1,9 +1,9 @@
 
 <h1 align="center">👋 Hi, I'm Shaik Kalandar</h1>
-<h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation Expert</h3>
+<h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Azure%2FAWS+Architect;DevOps+Mentor;Infrastructure+as+Code+Specialist" alt="Header Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Azure%2FAWS+Engineer;DevOps+Mentor;Infrastructure+as+Code+Specialist" alt="Header Animation">
 </div>
 
 ---
