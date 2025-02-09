@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Shaik Kalandar</h1>
+<h1 align="center">👋 Hi, I'm  Kalandar</h1>
 <h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation Engineer</h3>
 
 <div align="center">
