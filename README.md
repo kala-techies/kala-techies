@@ -78,10 +78,6 @@
 ✅ Career transition guidance  
 ✅ Technical interview preparation
 
-**Student Success Story**  
-> "Kalandar's Terraform deep-dive helped me automate infrastructure deployment in my first cloud role!"  
-> - Cloud Engineer @TechStartup
-
 ---
 
 ## 🌐 Connect & Collaborate
