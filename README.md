@@ -75,8 +75,7 @@
 **200+ Hours of DevOps Training**  
 ✅ Hands-on labs with real infrastructure  
 ✅ CI/CD pipeline implementation workshops  
-✅ Career transition guidance  
-✅ Technical interview preparation
+✅ Career transition guidance
 
 ---
 
