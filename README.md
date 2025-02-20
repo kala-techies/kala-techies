@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kala-techies&theme=dark&border_radius=4.6" width="49%"/>
+    <img src="https://streak-stats.demolab.com?user=kala-techies&theme=dark&border_radius=4.6" width="48%"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&theme=radical" width="49%">
 </div>
