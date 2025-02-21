@@ -1,9 +1,12 @@
-
 <h1 align="center">👋 Hi I'm  Kalandar</h1>
 <h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation Engineer</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Azure%2FAWS+Engineer;DevOps+Mentor;Infrastructure+as+Code+Specialist" alt="Header Animation">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kala-techies&label=Profile+Views&color=blue&style=flat" alt="Visitor counter">
 </div>
 
 ---
@@ -45,9 +48,9 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kala-techies&theme=dark&border_radius=4.6" width="48%"/>
+    <img src="https://streak-stats.demolab.com?user=kala-techies&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D" width="49%"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&theme=radical&include_all_commits=true" width="49%">
 </div>
 
 ---
@@ -59,7 +62,7 @@
 |---------|------------|------------------|
 | [SDLC Fundamentals](https://github.com/kala-techies/sdlc-fundamentals) | Git, Markdown | Software lifecycle mastery |
 | [Linux Starter](https://github.com/kala-techies/linuxStarter) | Bash, SSH | Linux administration basics |
-| [Python Essentials](https://github.com/kala-techies/MLOPS/tree/main/Section03PythonEssentials) | Python 3.x | Automation scripting foundation |
+| [PythonForOps](https://github.com/kala-techies/PythonForOps) | Python 3.x | Operational scripting mastery |
 
 ### 🚀 Production-Grade Projects
 | Project | Key Technologies | Professional Use Case |
@@ -101,4 +104,3 @@
 <p align="center">
   <em>"Automation is not replacement - it's human potential amplified through technology"</em> ⚡
 </p>
-```
