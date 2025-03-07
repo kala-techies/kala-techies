@@ -47,10 +47,7 @@
 ## 📊 Development Pulse
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kala-techies&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D" width="49%"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&theme=radical&include_all_commits=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kala-techies&show_icons=true&theme=radical&include_all_commits=true" width="100%">
 </div>
 
 ---
@@ -67,9 +64,12 @@
 ### 🚀 Production-Grade Projects
 | Project | Key Technologies | Professional Use Case |
 |---------|------------------|-----------------------|
+| [AWS Admin Handbook](https://github.com/kala-techies/AWS-Admin-Handbook) | AWS CLI, IAM | Cloud administration best practices |
 | [Blog Deployment](https://github.com/kala-techies/kalandar-blog) | React, Docker | Containerized web apps |
 | [Cricbuzz Clone](https://github.com/kala-techies/cricbuzz_clone) | Flask, Docker | Python microservices |
-| [Azure Terraform](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, GitHub Actions | Cloud infrastructure automation |
+| [Docker CI/CD Pipeline](https://github.com/kala-techies/DockerGithubActionsDeployment) | GitHub Actions, Flask | Automated container deployments |
+| [Azure Terraform](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, Azure | Cloud infrastructure automation |
+| [Terraform Azure Guide](https://github.com/kala-techies/TerraformWithAzure) | Terraform, ARM | IaC mastery for Azure |
 | [MLOps Pipeline](https://github.com/kala-techies/MLOPS) | MLflow, Prometheus | Machine learning lifecycle management |
 
 ---
