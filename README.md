@@ -61,13 +61,23 @@
 
 ## 🧠 Knowledge Repository
 
+### 🎓 Foundational Resources
+| Project | Tech Stack | Learning Outcome |
+|---------|------------|------------------|
+| [SDLC Fundamentals](https://github.com/kala-techies/sdlc-fundamentals) | Git, Markdown | Software lifecycle mastery |
+| [Linux Starter](https://github.com/kala-techies/linuxStarter) | Bash, SSH | Linux administration basics |
+| [PythonForOps](https://github.com/kala-techies/PythonForOps) | Python 3.x | Operational scripting mastery |
+
 ### 🚀 Production-Grade Projects
-| Project | Technologies | Highlights |
-|---------|--------------|------------|
-| [Secure CI/CD Pipeline](https://github.com/kala-techies/DockerGithubActionsDeployment) | GitHub Actions, Snyk, Trivy | Implemented SAST/SCA in CI pipeline |
-| [Azure Terraform Modules](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, Azure Policy | Compliant infrastructure as code |
-| [Code Quality Dashboard](https://github.com/kala-techies/MLOPS) | SonarQube, Black Duck | Centralized code analysis platform |
-| [AWS Security Automation](https://github.com/kala-techies/AWS-Admin-Handbook) | AWS CLI, Security Hub | Automated compliance checks |
+| Project | Key Technologies | Professional Use Case |
+|---------|------------------|-----------------------|
+| [AWS Admin Handbook](https://github.com/kala-techies/AWS-Admin-Handbook) | AWS CLI, IAM | Cloud administration best practices |
+| [Blog Deployment](https://github.com/kala-techies/kalandar-blog) | React, Docker | Containerized web apps |
+| [Cricbuzz Clone](https://github.com/kala-techies/cricbuzz_clone) | Flask, Docker | Python microservices |
+| [Docker CI/CD Pipeline](https://github.com/kala-techies/DockerGithubActionsDeployment) | GitHub Actions, Flask | Automated container deployments |
+| [Azure Terraform](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, Azure | Cloud infrastructure automation |
+| [Terraform Azure Guide](https://github.com/kala-techies/TerraformWithAzure) | Terraform, ARM | IaC mastery for Azure |
+| [MLOps Pipeline](https://github.com/kala-techies/MLOPS) | MLflow, Prometheus | Machine learning lifecycle management |
 
 ---
 
