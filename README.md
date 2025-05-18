@@ -78,6 +78,8 @@
 | [Azure Terraform](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, Azure | Cloud infrastructure automation |
 | [Terraform Azure Guide](https://github.com/kala-techies/TerraformWithAzure) | Terraform, ARM | IaC mastery for Azure |
 | [MLOps Pipeline](https://github.com/kala-techies/MLOPS) | MLflow, Prometheus | Machine learning lifecycle management |
+| [Tic Tac Toe Game](https://github.com/kala-techies/tic-tac-toe) | HTML, CSS, JavaScript, GitHub Pages | Static web app deployed via CI/CD |
+| &nbsp; | &nbsp; | [🎮 Live Demo](https://kala-techies.github.io/tic-tac-toe/) |
 
 ---
 
