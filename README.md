@@ -80,6 +80,8 @@
 | [MLOps Pipeline](https://github.com/kala-techies/MLOPS) | MLflow, Prometheus | Machine learning lifecycle management |
 | [Tic Tac Toe Game](https://github.com/kala-techies/tic-tac-toe) | HTML, CSS, JavaScript, GitHub Pages | Static web app deployed via CI/CD |
 | &nbsp; | &nbsp; | [🎮 Live Demo](https://kala-techies.github.io/tic-tac-toe/) |
+| [Vehicle UI Dashboard](https://github.com/kala-techies/vehicle-ui-dashboard) | Angular, GitHub Actions | Static Angular app deployed to GitHub Pages via CI/CD |
+| &nbsp; | &nbsp; | [📊 Live Site](https://kala-techies.github.io/vehicle-ui-dashboard/) |
 
 ---
 
