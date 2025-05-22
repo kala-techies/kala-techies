@@ -64,23 +64,23 @@
 ### 🎓 Foundational Resources
 | Project | Tech Stack | Learning Outcome |
 |---------|------------|------------------|
-| [SDLC Fundamentals](https://github.com/kala-techies/sdlc-fundamentals) | Git, Markdown | Software lifecycle mastery |
-| [Linux Starter](https://github.com/kala-techies/linuxStarter) | Bash, SSH | Linux administration basics |
-| [PythonForOps](https://github.com/kala-techies/PythonForOps) | Python 3.x | Operational scripting mastery |
+| [1. SDLC Fundamentals](https://github.com/kala-techies/sdlc-fundamentals) | Git, Markdown | Software lifecycle mastery |
+| [2. Linux Starter](https://github.com/kala-techies/linuxStarter) | Bash, SSH | Linux administration basics |
+| [3. PythonForOps](https://github.com/kala-techies/PythonForOps) | Python 3.x | Operational scripting mastery |
 
 ### 🚀 Production-Grade Projects
 | Project | Key Technologies | Professional Use Case |
 |---------|------------------|-----------------------|
-| [AWS Admin Handbook](https://github.com/kala-techies/AWS-Admin-Handbook) | AWS CLI, IAM | Cloud administration best practices |
-| [Blog Deployment](https://github.com/kala-techies/kalandar-blog) | React, Docker | Containerized web apps |
-| [Cricbuzz Clone](https://github.com/kala-techies/cricbuzz_clone) | Flask, Docker | Python microservices |
-| [Docker CI/CD Pipeline](https://github.com/kala-techies/DockerGithubActionsDeployment) | GitHub Actions, Flask | Automated container deployments |
-| [Azure Terraform](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, Azure | Cloud infrastructure automation |
-| [Terraform Azure Guide](https://github.com/kala-techies/TerraformWithAzure) | Terraform, ARM | IaC mastery for Azure |
-| [MLOps Pipeline](https://github.com/kala-techies/MLOPS) | MLflow, Prometheus | Machine learning lifecycle management |
-| [Tic Tac Toe Game](https://github.com/kala-techies/tic-tac-toe) | HTML, CSS, JavaScript, GitHub Pages | Static web app deployed via CI/CD |
+| [1. AWS Admin Handbook](https://github.com/kala-techies/AWS-Admin-Handbook) | AWS CLI, IAM | Cloud administration best practices |
+| [2. Blog Deployment](https://github.com/kala-techies/kalandar-blog) | React, Docker | Containerized web apps |
+| [3. Cricbuzz Clone](https://github.com/kala-techies/cricbuzz_clone) | Flask, Docker | Python microservices |
+| [4. Docker CI/CD Pipeline](https://github.com/kala-techies/DockerGithubActionsDeployment) | GitHub Actions, Flask | Automated container deployments |
+| [5. Azure Terraform](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, Azure | Cloud infrastructure automation |
+| [6. Terraform Azure Guide](https://github.com/kala-techies/TerraformWithAzure) | Terraform, ARM | IaC mastery for Azure |
+| [7. MLOps Pipeline](https://github.com/kala-techies/MLOPS) | MLflow, Prometheus | Machine learning lifecycle management |
+| [8. Tic Tac Toe Game](https://github.com/kala-techies/tic-tac-toe) | HTML, CSS, JavaScript, GitHub Pages | Static web app deployed via CI/CD |
 | &nbsp; | &nbsp; | [🎮 Live Demo](https://kala-techies.github.io/tic-tac-toe/) |
-| [Vehicle UI Dashboard](https://github.com/kala-techies/vehicle-ui-dashboard) | Angular, GitHub Actions | Static Angular app deployed to GitHub Pages via CI/CD |
+| [9. Vehicle UI Dashboard](https://github.com/kala-techies/vehicle-ui-dashboard) | Angular, GitHub Actions | Static Angular app deployed to GitHub Pages via CI/CD |
 | &nbsp; | &nbsp; | [📊 Live Site](https://kala-techies.github.io/vehicle-ui-dashboard/) |
 
 ---
