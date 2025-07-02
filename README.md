@@ -82,6 +82,8 @@
 | &nbsp; | &nbsp; | [🎮 Live Demo](https://kala-techies.github.io/tic-tac-toe/) |
 | [9. Vehicle UI Dashboard](https://github.com/kala-techies/vehicle-ui-dashboard) | Angular, GitHub Actions | Static Angular app deployed to GitHub Pages via CI/CD |
 | &nbsp; | &nbsp; | [📊 Live Site](https://kala-techies.github.io/vehicle-ui-dashboard/) |
+| [10. Map Your Journey](https://github.com/kala-techies/map-your-journey) | React, Vite, TypeScript, Leaflet, React Leaflet, Tailwind CSS, html2canvas, GitHub Actions, GitHub Pages | Interactive travel map app with modern frontend tooling, automated CI/CD, and static hosting |
+| &nbsp; | &nbsp; | [🗺️ Live Demo](https://kala-techies.github.io/map-your-journey/) |
 
 ---
 
