@@ -84,6 +84,7 @@
 | &nbsp; | &nbsp; | [📊 Live Site](https://kala-techies.github.io/vehicle-ui-dashboard/) |
 | [10. Map Your Journey](https://github.com/kala-techies/map-your-journey) | React, Vite, TypeScript, Leaflet, React Leaflet, Tailwind CSS, html2canvas, GitHub Actions, GitHub Pages | Interactive travel map app with modern frontend tooling, automated CI/CD, and static hosting |
 | &nbsp; | &nbsp; | [🗺️ Live Demo](https://kala-techies.github.io/map-your-journey/) |
+| [11. CloudControl with Azure](https://github.com/kala-techies/CloudControl-with-Azure) | Azure CLI, ARM, Bicep, Portal, Governance | 35+ real-world Azure Admin use cases and implementation insights |
 
 ---
 
