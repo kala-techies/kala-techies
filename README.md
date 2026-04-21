@@ -2,7 +2,7 @@
 <h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Azure%2FAWS+Engineer;DevOps+Mentor;CI/CD+Automation+Expert;Cloud+Security+Specialist" alt="Header Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Azure%2FAWS+Engineer;DevOps+%26+CloudOps+Engineer;CI/CD+Automation+for+Apps+%26+Infrastructure" alt="Header Animation">
 </div>
 
 <div align="center">
@@ -14,21 +14,21 @@
 ## 🛠️ Technical Arsenal
 
 ### ☁️ Cloud Platforms
-![Azure](https://img.shields.io/badge/Azure-Expert-0078D4?logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-Pro-232F3E?logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-Intermediate-4285F4?logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud)
 
 ### 🔧 DevOps Toolkit
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?logo=githubactions)
-![Terraform](https://img.shields.io/badge/Terraform-Certified-7B42BC?logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 
 ### 🛡️ Security & Compliance
-![SonarQube](https://img.shields.io/badge/SonarQube-Expert-4E9BCD?logo=sonarqube)
-![Black Duck](https://img.shields.io/badge/Black_Duck-Pro-000000?logo=blackduck)
-![Snyk](https://img.shields.io/badge/Snyk-Advanced-4C4A73?logo=snyk)
-![Trivy](https://img.shields.io/badge/Trivy-Expert-1904DA?logo=aqua-security)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube)
+![Black Duck](https://img.shields.io/badge/Black_Duck-000000?logo=blackduck)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aqua-security)
 
 ### ⚡ Core Skills
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
