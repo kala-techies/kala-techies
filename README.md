@@ -31,10 +31,10 @@
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aqua-security)
 
 ### ⚡ Core Skills
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![Bash](https://img.shields.io/badge/Bash_Scripting-Advanced-4EAA25?logo=gnubash)
-![MSSQL](https://img.shields.io/badge/MSSQL-Advanced-CC2927?logo=microsoftsqlserver)
-![Networking](https://img.shields.io/badge/Networking-Expert-0096D6)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?logo=gnubash)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver)
+![Networking](https://img.shields.io/badge/Networking-0096D6)
 
 ---
 
