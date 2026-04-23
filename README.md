@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi I'm Kalandar</h1>
 <h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation Engineer</h3>
 
-<p align="center">I hold a Post Graduation in MSC Computer Science from Acharya Nagarjuna University.</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Azure%2FAWS+Engineer;DevOps+%26+CloudOps+Engineer;CI/CD+Automation+for+Apps+%26+Infrastructure" alt="Header Animation">
 </div>
@@ -45,6 +43,12 @@
 [![AI-900](https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?logo=microsoftazure)](https://learn.microsoft.com/en-us/users/shaikkalandar-4032/)
 [![AZ-700](https://img.shields.io/badge/Azure_Network_Engineer-0078D4?logo=microsoftazure)](https://learn.microsoft.com/en-us/users/shaikkalandar-4032/)
 [![Terraform](https://img.shields.io/badge/HashiCorp_Certified-7B42BC?logo=terraform)](https://www.credly.com/badges/1e3a3b9a-5b3a-4b3a-9b3a-5b3a4b3a9b3a)
+
+---
+
+## 🎓 Education
+- **Post Graduation in MSC Computer Science**  
+  Acharya Nagarjuna University
 
 ---
 
