@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi I'm Kalandar</h1>
 <h3 align="center">Cloud & DevOps Engineer | Infrastructure Automation Engineer</h3>
 
+<p align="center">I hold a Post Graduation in MSC Computer Science from Acharya Nagarjuna University.</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Azure%2FAWS+Engineer;DevOps+%26+CloudOps+Engineer;CI/CD+Automation+for+Apps+%26+Infrastructure" alt="Header Animation">
 </div>
