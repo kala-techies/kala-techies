@@ -49,10 +49,10 @@ Built with Flutter/Dart and Riverpod on a Clean Architecture base (domain/data/p
 
 ## Technical Arsenal
 
-**Cloud & Infrastructure:** Azure · AWS · GCP · Terraform · Docker · Kubernetes · GitHub Actions
-**Security & Compliance:** SonarQube · Black Duck · Snyk · Trivy
-**Applied AI / Mobile:** Flutter · Dart · Riverpod · llama.cpp · whisper.cpp
-**Core:** Python · Bash · MSSQL · Networking
+- **Cloud & Infrastructure:** Azure · AWS · GCP · Terraform · Docker · Kubernetes · GitHub Actions
+- **Security & Compliance:** SonarQube · Black Duck · Snyk · Trivy
+- **Applied AI / Mobile:** Flutter · Dart · Riverpod · llama.cpp · whisper.cpp
+- **Core:** Python · Bash · MSSQL · Networking
 
 ## Certifications
 
