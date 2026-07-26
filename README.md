@@ -14,14 +14,6 @@ I build and automate cloud infrastructure — Terraform-driven provisioning, Git
 
 ---
 
-### Currently building — OfflineMoMAI
-
-A fully offline AI meeting assistant for Android: on-device speech transcription (whisper.cpp) and on-device LLM summarization (llama.cpp, Qwen2.5-1.5B-Instruct), plus a real-time offline translator across English and nine Indian languages. No cloud calls, no accounts — nothing leaves the device.
-
-Built with Flutter/Dart and Riverpod on a Clean Architecture base (domain/data/presentation, MVVM, Repository pattern). *Repository is private — happy to walk through the code on request.*
-
----
-
 ## Infrastructure & Automation
 
 | Project | Stack | What it does |
@@ -30,6 +22,14 @@ Built with Flutter/Dart and Riverpod on a Clean Architecture base (domain/data/p
 | [Azure VM Deployment Automation](https://github.com/kala-techies/azure-terraform-vm-deployment) | Terraform, GitHub Actions | One-command Azure VM provisioning from CI |
 | [Map Your Journey](https://github.com/kala-techies/map-your-journey) — [demo](https://kala-techies.github.io/map-your-journey/) | React, Vite, TypeScript, Leaflet | Interactive travel map, deployed via automated CI/CD |
 | [Vehicle UI Dashboard](https://github.com/kala-techies/vehicle-ui-dashboard) — [demo](https://kala-techies.github.io/vehicle-ui-dashboard/) | React, Nx, Storybook, TypeScript | Modular component-driven dashboard, deployed via CI/CD |
+
+### Currently building — OfflineMoMAI
+
+Beyond the pipeline work above: a fully offline AI meeting assistant for Android — on-device speech transcription (whisper.cpp) and on-device LLM summarization (llama.cpp, Qwen2.5-1.5B-Instruct), plus a real-time offline translator across English and nine Indian languages. No cloud calls, no accounts — nothing leaves the device.
+
+Built with Flutter/Dart and Riverpod on a Clean Architecture base (domain/data/presentation, MVVM, Repository pattern). *Repository is private — happy to walk through the code on request.*
+
+---
 
 ## Technical Guides & Mentorship
 
