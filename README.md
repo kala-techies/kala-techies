@@ -32,9 +32,9 @@ I build cloud infrastructure, automate the pipelines that ship it, and document 
 
 ```mermaid
 graph LR
-    A["2024\nScripting & fundamentals\nPowerShell · Git · Linux"] --> B["2024–25\nDevOps foundations\nTerraform + GitHub Actions,\nfirst CI/CD pipelines"]
-    B --> C["2025\nBroader cloud + automation\nAzure administration,\nPython for Ops, MLOps"]
-    C --> D["2026\nKubernetes & production engineering\nMulti-region AKS DR architecture,\nlive 3D portfolio build"]
+    A["2024<br/>Scripting and fundamentals<br/>PowerShell, Git, Linux"] --> B["2024-2025<br/>DevOps foundations<br/>Terraform + GitHub Actions<br/>first CI/CD pipelines"]
+    B --> C["2025<br/>Broader cloud and automation<br/>Azure administration, Python for Ops, MLOps"]
+    C --> D["2026<br/>Kubernetes and production engineering<br/>Multi-region AKS DR architecture<br/>live 3D portfolio build"]
 ```
 
 This isn't a resume timeline — it's the order these repositories were actually created in. Each stage is still active; the guides from 2024 are still maintained, the AKS project is this month's work.
@@ -106,13 +106,13 @@ The pipeline behind `aks-multi-region-dr`, as it's actually configured today —
 
 ```mermaid
 flowchart LR
-    Dev[Developer] --> Git[Git push / PR]
-    Git --> CI["GitHub Actions CI\nlint · pytest · terraform validate · helm lint"]
-    CI --> Build["Docker image build\n(backend + frontend)"]
-    Build --> Reg[Azure Container Registry]
-    Reg --> Deploy{Deploy target}
-    Deploy --> ACI["Azure Container Instances\nfast single-region validation — proven"]
-    Deploy --> AKS["Multi-region AKS + Traffic Manager\nDR target — designed, not yet deployed"]
+    Dev["Developer"] --> Git["Git push or PR"]
+    Git --> CI["GitHub Actions CI<br/>lint, pytest, terraform validate, helm lint"]
+    CI --> Build["Docker image build<br/>backend and frontend"]
+    Build --> Reg["Azure Container Registry"]
+    Reg --> Deploy{"Deploy target"}
+    Deploy --> ACI["Azure Container Instances<br/>fast single-region validation, proven"]
+    Deploy --> AKS["Multi-region AKS + Traffic Manager<br/>DR target, designed, not yet deployed"]
 ```
 
 No step here is a security-scanning gate — that's deliberate. The repo carries a written security review (`docs/security-review.md`) and a documented region/quota constraint discovered by direct testing against the subscription (`DECISIONS.md`); neither is an automated check yet, and I'd rather show the pipeline as it runs than round it up.
