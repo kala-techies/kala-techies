@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Kalandar — Cloud &amp; DevOps Engineer. Azure, Kubernetes, AKS, Infrastructure Automation, CI/CD." width="100%" />
+# Kalandar
+
+### Cloud & DevOps Engineer
+
+Azure · Kubernetes · AKS · Infrastructure Automation · CI/CD
+
+<img src="./assets/banner.svg" alt="Engineering pipeline: Git, GitHub Actions, Build and Test, Container, Azure, AKS" width="100%" />
 
 Building and automating reliable cloud infrastructure across Azure, Kubernetes and modern DevOps pipelines.
 
